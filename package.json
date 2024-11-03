@@ -1,0 +1,23 @@
+{
+  "name": "js-2-hw-03-ajs_use",
+  "version": "1.0.0",
+  "description": "checking my library ajs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LagutaNV2/js-2-HW-03-ajs_use.git"
+  },
+  "author": "Natalija La Gu Ta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LagutaNV2/js-2-HW-03-ajs_use/issues"
+  },
+  "homepage": "https://github.com/LagutaNV2/js-2-HW-03-ajs_use#readme",
+  "dependencies": {
+    "@lagutanv2/ajs": "^1.0.0"
+  }
+}
